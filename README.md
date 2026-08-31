@@ -6,6 +6,7 @@
 - Valentina Echeverría Polanco
 - Juan Camilo Grajales Campuzano
 - Neyis Edith Monsalve Atencio
+- Indira Karla Ortega Cuadrado
 
 ## Descripción
 
