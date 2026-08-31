@@ -36,6 +36,7 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 
 . Área para especializarme logística y formulación de proyectos
 
+
 -Maicol Estiben Albanes Marulanda
 
 . Ingeniería industrial
