@@ -18,7 +18,7 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 
 ## Vínculos académicos y descripción
 
--Juan Camilo Grajales campuzano 
+# Juan Camilo Grajales campuzano 
 
 . Ingeniería industrial 
 
@@ -37,7 +37,7 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 . Área para especializarme logística y formulación de proyectos
 
 
--Maicol Estiben Albanes Marulanda
+# Maicol Estiben Albanes Marulanda
 
 . Ingeniería industrial
 
