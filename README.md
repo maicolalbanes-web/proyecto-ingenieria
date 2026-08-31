@@ -18,11 +18,11 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 ## Vínculos académicos y descripción
 
 -Juan Camilo Grajales campuzano 
-Ingeniería industrial 
-Tercer semestre con materias del cuarto 
-Carepa Antioquia 
-Campus occidente con traslado para Urabá
-Adquirir conocimientos, habilidades, destrezas, estrategias empresariales, logísticas
-Habilidades, trabajo en equipo, responsabilidad, fortalezas, tolerancia, 
-Meta profesional.poder aplicar todos los conocimientos adquiridos durante la carrera en el campo laboral
-Área para especializarme logística y formulación de proyectos
+. Ingeniería industrial 
+. Tercer semestre con materias del cuarto 
+. Carepa Antioquia 
+. Campus occidente con traslado para Urabá
+. Adquirir conocimientos, habilidades, destrezas, estrategias empresariales, logísticas
+. Habilidades, trabajo en equipo, responsabilidad, fortalezas, tolerancia, 
+. Meta profesional.poder aplicar todos los conocimientos adquiridos durante la carrera en el campo laboral
+. Área para especializarme logística y formulación de proyectos
