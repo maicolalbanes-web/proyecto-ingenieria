@@ -56,5 +56,22 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 .Área de especialización, me gustaría enfocarme en logística y formulación de proyectos, ya que son áreas que permiten organizar recursos, planear estrategias y buscar soluciones que ayuden al crecimiento y desarrollo de una empresa.
 
 
+# Neyis Edith Monsalve Atencio
+
+. Ingeniería industrial
+
+. cuarto semestre 
+
+. Montelíbano Córdoba
+
+. Campus Bajo Cauca.
+
+. Me interesan los temas relacionados con la optimización y automatización  de procesos.
+
+. Habilidades y fortalezas: capacidad de adaptarme rápidamente a los cambios y a diferentes circunstancias ,se me facilita el trabajo en equipo, ya que me gusta     aplicar la comunicación asertiva. Además, me caracterizo por ser una persona que le gusta el orden  y la organización. 
+
+. Mi meta es llegar a ser una ingeniera industrial con bases sólidas y criterios profesionales competentes donde pueda aportar de manera significativa a la organización en la que desempeñe mi profesión aspiro a adquirir experiencia y conocimientos en el campo laboral que me permitan fortalecer mis habilidades y crecer profesionalmente. 
+
+. A largo plazo ,me gustaría contar con  la experiencia y preparación necesaria para desarrollar un proyecto propio, por ello me inclino especialmente por el área de  gestión de producción y operaciones, ya que es un campo en el que me gustaría profundizar y adquirir mayores conocimientos. 
 
 
