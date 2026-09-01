@@ -60,7 +60,7 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 
 . Ingeniería industrial
 
-. cuarto semestre 
+. Cuarto semestre 
 
 . Montelíbano Córdoba
 
