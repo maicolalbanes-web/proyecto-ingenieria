@@ -108,7 +108,7 @@ En el futuro me gustaría desempeñarme principalmente en auditoría, gestión a
 
 Considero que estas áreas se relacionan mucho con mi forma de ser y con los aspectos de la Ingeniería Industrial que más me han llamado la atención durante mi formación.
 
-Valentina Echeverría Polanco 
+# Valentina Echeverría Polanco 
 
 Programa académico: Ingeniería Industrial
 
