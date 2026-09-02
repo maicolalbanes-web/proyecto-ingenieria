@@ -75,3 +75,37 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 . A largo plazo ,me gustaría contar con  la experiencia y preparación necesaria para desarrollar un proyecto propio, por ello me inclino especialmente por el área de  gestión de producción y operaciones, ya que es un campo en el que me gustaría profundizar y adquirir mayores conocimientos. 
 
 
+# Indira Karla Ortega Cuadrado
+
+Programa académico: Ingeniería Industrial
+Semestre: Quinto semestre
+Lugar de residencia: Caucasia, Antioquia
+Campus: Campus Caucasia – Universidad de Antioquia
+
+Intereses académicos
+
+Durante mi formación en Ingeniería Industrial me he interesado principalmente por la parte administrativa de la carrera y por la manera en que se pueden organizar y mejorar los procesos dentro de una empresa.
+
+Me llama especialmente la atención el área de auditoría, porque considero importante conocer cómo se están realizando los procesos, identificar posibles errores o aspectos por mejorar y buscar alternativas que permitan obtener mejores resultados.
+
+También me interesa el ciclo PHVA (Planear, Hacer, Verificar y Actuar), ya que permite llevar un seguimiento de los procesos y trabajar constantemente en su mejora. Además, me interesan temas relacionados con la gestión administrativa, calidad, organización empresarial y control de procesos.
+
+Habilidades y fortalezas
+
+Considero que una de mis principales fortalezas es la comprensión lectora, ya que me gusta analizar la información, entender los temas y buscar la manera de aplicarlos a situaciones reales.
+
+También me considero una persona responsable, organizada y comprometida con las actividades que realizo. Tengo facilidad para trabajar en equipo, aprender de los demás y adaptarme a diferentes situaciones. Me gusta que las cosas tengan un orden y, cuando encuentro alguna dificultad, trato de buscar soluciones en lugar de quedarme únicamente con el problema.
+
+Meta profesional
+
+Mi meta es terminar mi carrera de Ingeniería Industrial y seguir fortaleciendo mis conocimientos y experiencia para poder desempeñarme en una organización donde tenga la oportunidad de crecer tanto personal como profesionalmente.
+
+Quiero ser una profesional que no solo cumpla con sus funciones, sino que también pueda aportar ideas, identificar oportunidades de mejora y ayudar a que los procesos de una empresa sean más organizados y eficientes.
+
+Área en la que me gustaría desempeñarme
+
+En el futuro me gustaría desempeñarme principalmente en auditoría, gestión administrativa y mejoramiento de procesos. Me gustaría tener la oportunidad de analizar cómo funcionan los procesos de una organización, verificar que se estén cumpliendo de manera adecuada y proponer mejoras cuando sea necesario.
+
+Considero que estas áreas se relacionan mucho con mi forma de ser y con los aspectos de la Ingeniería Industrial que más me han llamado la atención durante mi formación.
+
+
