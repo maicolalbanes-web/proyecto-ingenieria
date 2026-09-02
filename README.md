@@ -108,4 +108,23 @@ En el futuro me gustaría desempeñarme principalmente en auditoría, gestión a
 
 Considero que estas áreas se relacionan mucho con mi forma de ser y con los aspectos de la Ingeniería Industrial que más me han llamado la atención durante mi formación.
 
+Valentina Echeverría Polanco 
+
+Programa académico: Ingeniería Industrial
+
+Semestre que cursas: 6 semestre
+
+Lugar de residencia: Caucasia - Antioquia
+
+Campus al que perteneces: Campus Caucasia 
+
+Intereses académicos relacionados con la carrera: Mis intereses académicos son adquirir el mayor conocimiento que me brinda la Universidad de Antioquia a través de las materias que veo en el programa de ingeniería, me esfuerzo en entender los temas para así tener un buen manejo de está, y espero seguir aprendiendo mucho para mis metas a corto y largo plazo.
+
+Habilidades y fortalezas: Mis habilidades son el trabajo en equipo, soy empática con las personas, adaptabilidad, gestionar el tiempo para llevar un orden y la planificación e organización,  mis fortalezas son la responsabilidad, el respeto, compromiso, esfuerzo, dedicación, ser razonable y la paciencia 
+
+Meta profesional: Mi meta profesional es ser una gran Ingeniera Industrial, mi compromiso es estudiar y aprender mucho en todo lo que me ofrece la UdeA, y también de todo lo que me rodea, ya que al final debemos aprender de todo, debo esforzarme, comprometerme y dedicarme a expandir mis conocimientos ya que tengo grandes planes a futuro
+
+Rama o área de la carrera que me gustaría desempeñarme y especializarme en el futuro: Me gustaría especializarme en alguna de estas ramas como: ingeniería de proyectos, gestión de operaciones y productividad ó logística y cadena de suministro, estas ramas me parecen interesantes, ya que su campo de trabajo para mí, es de muchas pruebas que exigen la optimización de recursos para entregar valor  de forma eficiente 
+
+
 
