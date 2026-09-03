@@ -97,7 +97,6 @@ Me gustaría especializarme en logística y formulación de proyectos, áreas qu
 . Área de especialización, me gustaría enfocarme en auditoría, gestión administrativa y mejoramiento de procesos, ya que son áreas que se relacionan con lo que más me gusta de la Ingeniería Industrial.
 
 
-
 # Valentina Echeverría Polanco 
 
 Programa académico: Ingeniería Industrial
