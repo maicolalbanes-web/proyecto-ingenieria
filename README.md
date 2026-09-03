@@ -20,22 +20,25 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 
 # Juan Camilo Grajales campuzano 
 
-. Ingeniería industrial 
+Programa académico: Ingeniería Industrial
 
-. Tercer semestre con materias del cuarto 
+Semestre: Tercer semestre, con algunas materias correspondientes al cuarto semestre.
 
-. Carepa Antioquia 
+Lugar de residencia: Carepa, Antioquia.
 
-. Campus occidente con traslado para Urabá
+Campus: Actualmente pertenezco al Campus Occidente de la Universidad de Antioquia, con traslado proyectado para el Campus Urabá.
 
-. Adquirir conocimientos, habilidades, destrezas, estrategias empresariales, logísticas
+Intereses académicos:
+Me interesa adquirir conocimientos, habilidades y estrategias que me permitan desenvolverme en diferentes áreas de la Ingeniería Industrial, especialmente en el ámbito empresarial y logístico. También quiero aprender herramientas que pueda aplicar para mejorar procesos y contribuir al crecimiento de las organizaciones.
 
-. Habilidades, trabajo en equipo, responsabilidad, fortalezas, tolerancia, 
+Habilidades y fortalezas:
+Me considero una persona responsable, tolerante y con facilidad para trabajar en equipo. Me gusta escuchar diferentes ideas, aprender de los demás y aportar para alcanzar objetivos en conjunto.
 
-. Meta profesional.poder aplicar todos los conocimientos adquiridos durante la carrera en el campo laboral
+Meta profesional:
+Mi meta es culminar mi carrera y poder aplicar todos los conocimientos adquiridos en el campo laboral. Además, quiero implementar estos conocimientos en mi empresa, que actualmente está iniciando, con el propósito de fortalecerla, mejorar sus procesos y llevarla a un nivel muy alto. Espero que mi formación como Ingeniero Industrial me brinde las herramientas necesarias para lograr ese crecimiento y convertirla en una empresa sólida y competitiva.
 
-. Área para especializarme logística y formulación de proyectos
-
+Área en la que me gustaría especializarme:
+Me gustaría especializarme en logística y formulación de proyectos, áreas que considero importantes para la organización, planificación y crecimiento de una empresa.
 
 # Maicol Estiben Albanes Marulanda
 
