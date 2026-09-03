@@ -77,36 +77,23 @@ El proyecto fue realizado como parte de las actividades académicas de la Univer
 
 # Indira Karla Ortega Cuadrado
 
-Programa académico: Ingeniería Industrial
-Semestre: Quinto semestre
-Lugar de residencia: Caucasia, Antioquia
-Campus: Campus Caucasia – Universidad de Antioquia
+. Ingeniería Industrial
 
-Intereses académicos
+. Quinto semestre
 
-Durante mi formación en Ingeniería Industrial me he interesado principalmente por la parte administrativa de la carrera y por la manera en que se pueden organizar y mejorar los procesos dentro de una empresa.
+. Caucasia, Antioquia
 
-Me llama especialmente la atención el área de auditoría, porque considero importante conocer cómo se están realizando los procesos, identificar posibles errores o aspectos por mejorar y buscar alternativas que permitan obtener mejores resultados.
+. Campus Caucasia – Universidad de Antioquia
 
-También me interesa el ciclo PHVA (Planear, Hacer, Verificar y Actuar), ya que permite llevar un seguimiento de los procesos y trabajar constantemente en su mejora. Además, me interesan temas relacionados con la gestión administrativa, calidad, organización empresarial y control de procesos.
+. Intereses académicos, me interesa principalmente la parte administrativa de la Ingeniería Industrial, la auditoría, la gestión de procesos y el ciclo PHVA. Me gusta conocer cómo funcionan los procesos y buscar formas de mejorarlos.
 
-Habilidades y fortalezas
+. Habilidades y fortalezas, me considero una persona responsable, organizada y comprometida. Una de mis fortalezas es la comprensión lectora, también me gusta trabajar en equipo, aprender de los demás y buscar soluciones a los problemas.
 
-Considero que una de mis principales fortalezas es la comprensión lectora, ya que me gusta analizar la información, entender los temas y buscar la manera de aplicarlos a situaciones reales.
+. Meta profesional, mi meta es terminar mi carrera, adquirir experiencia y poder aplicar mis conocimientos en situaciones reales, aportando ideas que ayuden a mejorar los procesos dentro de una organización.
 
-También me considero una persona responsable, organizada y comprometida con las actividades que realizo. Tengo facilidad para trabajar en equipo, aprender de los demás y adaptarme a diferentes situaciones. Me gusta que las cosas tengan un orden y, cuando encuentro alguna dificultad, trato de buscar soluciones en lugar de quedarme únicamente con el problema.
+. Área de especialización, me gustaría enfocarme en auditoría, gestión administrativa y mejoramiento de procesos, ya que son áreas que se relacionan con lo que más me gusta de la Ingeniería Industrial.
 
-Meta profesional
 
-Mi meta es terminar mi carrera de Ingeniería Industrial y seguir fortaleciendo mis conocimientos y experiencia para poder desempeñarme en una organización donde tenga la oportunidad de crecer tanto personal como profesionalmente.
-
-Quiero ser una profesional que no solo cumpla con sus funciones, sino que también pueda aportar ideas, identificar oportunidades de mejora y ayudar a que los procesos de una empresa sean más organizados y eficientes.
-
-Área en la que me gustaría desempeñarme
-
-En el futuro me gustaría desempeñarme principalmente en auditoría, gestión administrativa y mejoramiento de procesos. Me gustaría tener la oportunidad de analizar cómo funcionan los procesos de una organización, verificar que se estén cumpliendo de manera adecuada y proponer mejoras cuando sea necesario.
-
-Considero que estas áreas se relacionan mucho con mi forma de ser y con los aspectos de la Ingeniería Industrial que más me han llamado la atención durante mi formación.
 
 # Valentina Echeverría Polanco 
 
