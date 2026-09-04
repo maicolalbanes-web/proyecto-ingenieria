@@ -26,6 +26,10 @@ Semestre: Tercer semestre, con algunas materias correspondientes al cuarto semes
 
 Lugar de residencia: Carepa, Antioquia.
 
+
+
+Project Nexus  © 2026 by Juan Camilo Grajales Campuzano,Maicol Estiben Albanes Marulanda,Neyis Edith Monsalve Atencio,Valentina Echeverria Polanco,Indira Karla Ortega Cuadrado is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
+
 Campus: Actualmente pertenezco al Campus Occidente de la Universidad de Antioquia, con traslado proyectado para el Campus Urabá.
 
 Intereses académicos:
