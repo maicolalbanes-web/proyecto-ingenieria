@@ -26,10 +26,6 @@ Semestre: Tercer semestre, con algunas materias correspondientes al cuarto semes
 
 Lugar de residencia: Carepa, Antioquia.
 
-
-
-Project Nexus  © 2026 by Juan Camilo Grajales Campuzano,Maicol Estiben Albanes Marulanda,Neyis Edith Monsalve Atencio,Valentina Echeverria Polanco,Indira Karla Ortega Cuadrado is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
-
 Campus: Actualmente pertenezco al Campus Occidente de la Universidad de Antioquia, con traslado proyectado para el Campus Urabá.
 
 Intereses académicos:
@@ -118,6 +114,9 @@ Habilidades y fortalezas: Mis habilidades son el trabajo en equipo, soy empátic
 Meta profesional: Mi meta profesional es ser una gran Ingeniera Industrial, mi compromiso es estudiar y aprender mucho en todo lo que me ofrece la UdeA, y también de todo lo que me rodea, ya que al final debemos aprender de todo, debo esforzarme, comprometerme y dedicarme a expandir mis conocimientos ya que tengo grandes planes a futuro
 
 Rama o área de la carrera que me gustaría desempeñarme y especializarme en el futuro: Me gustaría especializarme en alguna de estas ramas como: ingeniería de proyectos, gestión de operaciones y productividad ó logística y cadena de suministro, estas ramas me parecen interesantes, ya que su campo de trabajo para mí, es de muchas pruebas que exigen la optimización de recursos para entregar valor  de forma eficiente 
+
+
+Project Nexus  © 2026 by Juan Camilo Grajales Campuzano,Maicol Estiben Albanes Marulanda,Neyis Edith Monsalve Atencio,Valentina Echeverria Polanco,Indira Karla Ortega Cuadrado is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
 
 
