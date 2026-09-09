@@ -99,13 +99,13 @@ Me gustaría especializarme en logística y formulación de proyectos, áreas qu
 
 # Valentina Echeverría Polanco 
 
-Programa académico: Ingeniería Industrial
+ Ingeniería Industrial
 
-Semestre que cursas: 6 semestre
+ 6 semestre
 
-Lugar de residencia: Caucasia - Antioquia
+ Caucasia - Antioquia
 
-Campus al que perteneces: Campus Caucasia 
+Campus Caucasia, Universidad de Antioquia 
 
 Intereses académicos relacionados con la carrera: Mis intereses académicos son adquirir el mayor conocimiento que me brinda la Universidad de Antioquia a través de las materias que veo en el programa de ingeniería, me esfuerzo en entender los temas para así tener un buen manejo de está, y espero seguir aprendiendo mucho para mis metas a corto y largo plazo.
 
