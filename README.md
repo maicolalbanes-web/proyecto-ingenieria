@@ -101,7 +101,7 @@ Me gustaría especializarme en logística y formulación de proyectos, áreas qu
 
  Ingeniería Industrial
 
- 6 semestre
+ Sexto semestre
 
  Caucasia - Antioquia
 
