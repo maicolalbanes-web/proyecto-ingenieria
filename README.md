@@ -115,6 +115,7 @@ Meta profesional: Mi meta profesional es ser una gran Ingeniera Industrial, mi c
 
 Rama o área de la carrera que me gustaría desempeñarme y especializarme en el futuro: Me gustaría especializarme en alguna de estas ramas como: ingeniería de proyectos, gestión de operaciones y productividad ó logística y cadena de suministro, estas ramas me parecen interesantes, ya que su campo de trabajo para mí, es de muchas pruebas que exigen la optimización de recursos para entregar valor  de forma eficiente 
 
+## 4. Licencia del software
 
 Project Nexus  © 2026 by Juan Camilo Grajales Campuzano,Maicol Estiben Albanes Marulanda,Neyis Edith Monsalve Atencio,Valentina Echeverria Polanco,Indira Karla Ortega Cuadrado is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
@@ -163,16 +164,16 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 ###  Los requisitos no funcional: son la características que determinan cómo debe funcionar el sistemas
 
 
-* **Rendimiento:** las consultas, los registros y actualizaciones deben ejecutarse en un tiempo razonable 
+* **Rendimiento:** Las consultas, los registros y actualizaciones deben ejecutarse en un tiempo razonable 
 
-* **Seguridad:**   el sistema debe evitar modificaciones accidentales de los archivos que contienen las PQRS
+* **Seguridad:**   El sistema debe evitar modificaciones accidentales de los archivos que contienen las PQRS
 
-* **Usabilidad:**  el menú de la consola debe ser sencillo ,claro y fácil de utilizar  
+* **Usabilidad:**  El menú de la consola debe ser sencillo ,claro y fácil de utilizar  
 
-* **Fiabilidad:**  el sistema debe evitar las pérdidas o modificaciones incorrecta de la información almacenada 
+* **Fiabilidad:**  El sistema debe evitar las pérdidas o modificaciones incorrecta de la información almacenada 
 
-* **Compatibilidad:** el programa debe ejecutarse  correctamente en un entorno que tenga instalado python 
+* **Compatibilidad:** El programa debe ejecutarse  correctamente en un entorno que tenga instalado python 
 
-* **Mantenibilidad:** el código debe estar organizado y documentado para facilitar futuras modificaciones
+* **Mantenibilidad:** El código debe estar organizado y documentado para facilitar futuras modificaciones
 
 
