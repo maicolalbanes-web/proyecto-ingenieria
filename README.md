@@ -118,5 +118,22 @@ Rama o área de la carrera que me gustaría desempeñarme y especializarme en el
 
 Project Nexus  © 2026 by Juan Camilo Grajales Campuzano,Maicol Estiben Albanes Marulanda,Neyis Edith Monsalve Atencio,Valentina Echeverria Polanco,Indira Karla Ortega Cuadrado is licensed under CC BY 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by/4.0/
 
+## 5. Reporte de visión
 
+### Descripción General
+
+Project Nexus es un software de consola optimizado en Python diseñado para reemplazar el procesamiento manual en papel de las PQRS dirigidas al servicio veterinario universitario[span_6](start_span)[span_6](end_span). Ofrece un entorno estructurado, amigable e intuitivo para el administrador, garantizando la persistencia de datos mediante archivos planos .txt[span_7](start_span)[span_7](end_span).
+
+### Objetivos del Sistema
+
+* Eliminar el margen de error humano en la asignación de radicados consecutivos mediante secuencias automáticas por tipo de solicitud[span_8](start_span)[span_8](end_span).
+* Estandarizar la captura de información del usuario y de la mascota bajo estrictas reglas de validación de datos[span_9](start_span)[span_9](end_span).
+* Automatizar el cálculo de fechas límite de respuesta y estados de atención[span_10](start_span)[span_10](end_span).
+* Proveer un módulo estadístico de respuesta oportuna para la toma de decisiones directivas en la atención veterinaria[span_11](start_span)[span_11](end_span).
+
+### Beneficios
+
+* *Eficiencia operativa:* Reducción sustancial del tiempo de radicación y consulta[span_12](start_span)[span_12](end_span).
+* *Persistencia ligera:* Almacenamiento independiente por categorías sin requerir un motor de base de datos complejo[span_13](start_span)[span_13](end_span).
+* *Trazabilidad:* Generación automática de comprobantes de radicación formateados en marco ASCII de 120 caracteres de ancho[span_14](start_span)[span_14](end_span)
 
