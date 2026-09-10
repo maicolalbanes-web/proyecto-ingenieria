@@ -137,9 +137,9 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 * *Persistencia ligera:* Almacenamiento independiente por categorías sin requerir un motor de base de datos complejo.
 * *Trazabilidad:* Generación automática de comprobantes de radicación formateados en marco ASCII de 120 caracteres de ancho
 
-### 6. Especificación de requisitos 
+## 6. Especificación de requisitos 
 
-##  Los requisitos no funcional: Nos indican qué debe  hacer el sistema
+###  Los requisitos no funcional: Nos indican qué debe  hacer el sistema
 
 * Permitir registrar una nueva PQRS 
 * Asignar automáticamente un número de radicado y único a cada PQRS
@@ -160,12 +160,12 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 * Permitir exportar la información a un archivo plano
 * Almacenar la información mediante archivos planos utilizando python 
 
-##  Los requisitos no funcional: son la características que determinan cómo debe funcionar el sistemas 
+###  Los requisitos no funcional: son la características que determinan cómo debe funcionar el sistemas 
 
-<p>**Rendimiento** las consultas,los registros y actualizaciones deben ejecutarse en un tiempo razonable .</p>
-<p>**Seguridad** el sistema debe evitar modificaciones accidentales de los archivos que contienen las pqrs .</p>
-<p>**Usabilidad** el menú de la consola debe ser sencillo ,claro y fácil de utilizar.</p>
-<p>**Fiabilidad** el sistema debe evitar las pérdidas o modificaciones incorrecta de la información almacenada.</p>
+<p>*Rendimiento* las consultas,los registros y actualizaciones deben ejecutarse en un tiempo razonable .</p>
+<p>*Seguridad* el sistema debe evitar modificaciones accidentales de los archivos que contienen las pqrs .</p>
+<p>*Usabilidad* el menú de la consola debe ser sencillo ,claro y fácil de utilizar.</p>
+<p>*Fiabilidad* el sistema debe evitar las pérdidas o modificaciones incorrecta de la información almacenada.</p>
 <p>**Compatibilidad** el programa debe ejecutarse  correctamente en un entorno que tenga instalado python.</p>
 <p>**Mantenibilidad** el código debe estar organizado y documentado para facilitar futuras modificaciones
 .</p>
