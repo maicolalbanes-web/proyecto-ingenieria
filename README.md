@@ -161,7 +161,7 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 * Permitir exportar la información a un archivo plano
 * Almacenar la información mediante archivos planos utilizando python 
 
-###  Los requisitos no funcional: son la características que determinan cómo debe funcionar el sistemas
+###  Los requisitos no funcional: Son la características que determinan cómo debe funcionar el sistemas
 
 
 * **Rendimiento:** Las consultas, los registros y actualizaciones deben ejecutarse en un tiempo razonable 
