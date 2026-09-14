@@ -176,7 +176,7 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 
 * **Mantenibilidad:** El código debe estar organizado y documentado para facilitar futuras modificaciones
 
-## 7.Plan del proyecto — Project Nexus
+## 7. Plan del proyecto — Project Nexus
 
 | Actividad                       | Descripción                                                                         |
 | ------------------------------- | ----------------------------------------------------------------------------------- |
