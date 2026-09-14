@@ -176,4 +176,20 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 
 * **Mantenibilidad:** El código debe estar organizado y documentado para facilitar futuras modificaciones
 
+Plan del proyecto — Project Nexus
+
+| Actividad                       | Descripción                                                                         |
+| ------------------------------- | ----------------------------------------------------------------------------------- |
+| **Definición del proyecto**     | Definir alcance, objetivos y necesidades del servicio veterinario.                  |
+| **Levantamiento de requisitos** | Analizar requisitos funcionales y no funcionales.                                   |
+| **Diseño del sistema**          | Diseñar menú, módulos, flujo de información y estructura de archivos.               |
+| **Módulo de registro**          | Programar el registro de nuevas PQRS y generación automática del radicado.          |
+| **Validación de datos**         | Implementar las reglas de validación para solicitante, mascota y PQRS.              |
+| **Gestión de PQRS**             | Implementar consulta, actualización y manejo de estados.                            |
+| **Fechas y vencimientos**       | Automatizar fechas máximas de respuesta e identificación de PQRS próximas a vencer. |
+| **Estadísticas**                | Implementar estadísticas por tipo de solicitud y especie.                           |
+| **Persistencia**                | Implementar almacenamiento y exportación mediante archivos planos.                  |
+| **Pruebas del sistema**         | Verificar funcionamiento, validaciones y persistencia de información.               |
+| **Documentación**               | Elaborar manual y documentación técnica del proyecto.                               |
+| **Entrega**                     | Entrega.                                                                            |
 
