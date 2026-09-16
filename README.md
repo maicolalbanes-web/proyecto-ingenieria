@@ -193,3 +193,27 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 | **Documentación**               | Elaborar manual y documentación técnica del proyecto.                               |
 | **Entrega**                     | Entrega.                                                                            |
 
+
+## Cronograma y Diagrama de Gantt 
+
+**Datos importantes:
+**Duración total: 5 semanas
+**Equipo: 5 estudiantes
+**Dedicación total: 50 horas
+**Dedicación estimada: 10 horas por semana del equipo
+
+| Actividad                               |	Horas |
+|-------------------------------------------------|
+|**Definición y planificación	            |  3    |
+|**Análisis de requisitos	                |  5    |
+|**Diseño del sistema	                    |  5    | 
+|**Desarrollo del registro y radicación	  |  7    |
+|**Desarrollo de consulta y actualización	|  7    |
+|**Estados y cálculo de fechas	           |  5    |
+|**Módulo de estadísticas	                |  4    |
+|**Persistencia y exportación	            |  4    |
+|**Pruebas y correcciones	                |  5    |
+|**Documentación y entrega	               |  5    |
+|**Total	                                 |  50   |
+
+
