@@ -351,6 +351,19 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
   </tr>
 </table>
 
+# Presupuesto
+
+El presupuesto se llevará a cabo teniendo en cuenta que somos 5 estudiantes y se tiene como referencia un (1) SMLMV vigente para el año correspondiente al proyecto.
+
+## Datos importantes
+
+- 5 estudiantes × 10 horas = 50 horas de trabajo
+- Valor hora = SMLV ÷ número de horas laborales
+- Valor del proyecto = 50 horas × valor de una hora de trabajo
+- Aporte por estudiante = 10 horas × valor de una hora de trabajo
+
+ Al finalizar las 50 horas de práctica, el grupo deberá entregar un sistema de consola desarrollado en Python que permita registrar, consultar, actualizar, controlar y generar estadísticas de las PQRS, utilizando archivos planos .txt como mecanismo de persistencia, junto con la documentación y las pruebas correspondientes.
+
 
 
 
