@@ -360,7 +360,7 @@ El presupuesto se llevará a cabo teniendo en cuenta que somos 5 estudiantes y s
 - 5 estudiantes × 10 horas = 50 horas de trabajo
 - Valor hora = SMLV ÷ número de horas laborales
 - Valor del proyecto = 50 horas × valor de una hora de trabajo
-- Aporte por estudiante = 10 horas × valor de una hora de trabajo
+- Aporte por estudiante = 10 horas × valor de una hora de trabajo
 
  Al finalizar las 50 horas de práctica, el grupo deberá entregar un sistema de consola desarrollado en Python que permita registrar, consultar, actualizar, controlar y generar estadísticas de las PQRS, utilizando archivos planos .txt como mecanismo de persistencia, junto con la documentación y las pruebas correspondientes.
 
