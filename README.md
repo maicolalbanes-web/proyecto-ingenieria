@@ -206,6 +206,150 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 
 * Dedicación estimada: 10 horas por semana del equipo
 
+# Actividad y Horas
+
+| Actividad | Horas |
+|---|---:|
+| Definición y planificación | 3 |
+| Análisis de requisitos | 5 |
+| Diseño del sistema | 5 |
+| Desarrollo del registro y radicación | 7 |
+| Desarrollo de consulta y actualización | 7 |
+| Estados y cálculo de fechas | 5 |
+| Módulo de estadísticas | 4 |
+| Persistencia y exportación | 4 |
+| Pruebas y correcciones | 5 |
+| Documentación y entrega | 5 |
+| **Total** | **50** |
+
+<table>
+  <tr>
+    <th>Actividad</th>
+    <th>Horas</th>
+    <th>Semana 1</th>
+    <th>Semana 2</th>
+    <th>Semana 3</th>
+    <th>Semana 4</th>
+    <th>Semana 5</th>
+    <th>Semana 6</th>
+  </tr>
+
+  <tr>
+    <td>Definición y planificación</td>
+    <td>3</td>
+    <td bgcolor="#b7e3f2">3h</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Análisis de requisitos</td>
+    <td>5</td>
+    <td bgcolor="#b7e3f2">5h</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Diseño del sistema</td>
+    <td>5</td>
+    <td></td>
+    <td bgcolor="#b7e3f2">5h</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Desarrollo del registro y radicación</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">7h</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Desarrollo de consulta y actualización</td>
+    <td>7</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">7h</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Estados y cálculo de fechas</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">5h</td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Módulo de estadísticas</td>
+    <td>4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">4h</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Persistencia y exportación</td>
+    <td>4</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">4h</td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td>Pruebas y correcciones</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">5h</td>
+  </tr>
+
+  <tr>
+    <td>Documentación y entrega</td>
+    <td>5</td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td bgcolor="#b7e3f2">5h</td>
+  </tr>
+
+  <tr>
+    <td><b>Total</b></td>
+    <td><b>50h</b></td>
+    <td colspan="6"></td>
+  </tr>
+</table>
 
 
 
