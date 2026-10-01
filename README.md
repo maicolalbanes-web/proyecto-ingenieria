@@ -161,7 +161,6 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 * Permitir exportar la información a un archivo plano
 * Almacenar la información mediante archivos planos utilizando python
 
-## Especificaciones 
 ### Registro y Validación de Solicitantes
 el sistema debe capturar el nombre, tipo/número de documento, teléfono, correo y dirección. Debe validar que el correo contenga @ y dominio, el nombre no lleve dígitos, y el documento sea puramente numérico (3-15 dígitos). 
 Entradas inválidas despliegan mensaje de error específico sin detener el programa. 
