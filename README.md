@@ -159,7 +159,32 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 * Mostrar la cantidad de registro relacionados con gatos y perros
 * Identificar las PQRS más antiguas y las próximas a vencer 
 * Permitir exportar la información a un archivo plano
-* Almacenar la información mediante archivos planos utilizando python 
+* Almacenar la información mediante archivos planos utilizando python
+
+### Especificaciones 
+## Registro y Validación de Solicitantes
+el sistema debe capturar el nombre, tipo/número de documento, teléfono, correo y dirección. Debe validar que el correo contenga @ y dominio, el nombre no lleve dígitos, y el documento sea puramente numérico (3-15 dígitos). 
+Entradas inválidas despliegan mensaje de error específico sin detener el programa. 
+
+## Generación de Radicado e ID Consecutivo  
+El sistema debe asignar un número entero auto incremental iniciando en 1 por cada tipo de archivo y calcular la fecha máxima respuesta sumando 30 días calendario a la fecha de radicación. 
+el ID del primer registro en Peticion.txt es 1, y la fecha límite es exactamente 30 días mayor a la de registro. 
+
+## Persistencia en Archivos Planos Separados
+Cada solicitud debe guardarse de forma independiente en su archivo correspondiente: Peticion.txt, Queja.txt, Reclamo.txt o Sugerencia.txt en la carpeta data/. 
+No existen registros cruzados en archivos equivocados. 
+
+## Impresión de Comprobante ASCII
+Generar un comprobante en formato texto plano delimitado por un marco ASCII con un ancho fijo exacto de 120 caracteres, omitiendo la descripción detallada y mostrando "N/A" en la dirección si es omitida. 
+Todas las líneas del comprobante miden exactamente 120 caracteres. 
+
+## Gestión del Flujo de Estados
+El sistema debe permitir actualizar el estado únicamente en el orden lineal: Registrada → En proceso → Solucionada. 
+No se permite retroceder estados ni saltar de Registrada a Solucionada. 
+
+## Módulo de Estadísticas
+Calcular el promedio entero de días de respuesta (obligatorio) más 5 métricas adicionales (porcentaje por tipo de mascota, distribución por campus, solicitudes a vencer, etc.). 
+reportes.py retorna estadísticas calculadas correctamente sin promediar los ID. 
 
 ###  Los requisitos no funcional: Son la características que determinan cómo debe funcionar el sistemas
 
