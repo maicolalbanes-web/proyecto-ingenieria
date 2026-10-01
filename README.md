@@ -10,9 +10,9 @@
 
 ## Descripción
 
-Este proyecto tiene como objetivo desarrollar una solución para una problemática relacionada con la Ingeniería Industrial.
+Este proyecto tiene como objetivo optimizar la recepción, procesamiento y el seguimiento de solicitudes medicas veterinaria de perro y gato, implementando un gestor de PQRS con el fin de transformar un proceso manual en una plataforma digital mediante la implementación de software . Este  proyecto fue realizado como parte de las actividades académicas de la Universidad de Antioquia. En él se aplican los conocimientos adquiridos durante el curso para desarrollar una solución organizada y funcional. 
 
-El proyecto fue realizado como parte de las actividades académicas de la Universidad de Antioquia. En él se aplican los conocimientos adquiridos durante el curso para desarrollar una solución organizada y funcional. 
+## detalles del (logo)
 
 <img width="305" height="265" alt="Captura de pantalla 2026-08-31 175256" src="https://github.com/user-attachments/assets/a7b085bd-86df-4b72-8a9b-5cbff84730a4" />
 
