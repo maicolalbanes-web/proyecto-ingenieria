@@ -86,7 +86,7 @@ Me gustaría especializarme en logística y formulación de proyectos, áreas qu
 
 . Caucasia, Antioquia
 
-. Campus Caucasia – Universidad de Antioquia
+. Campus Caucasia– Universidad de Antioquia
 
 . Intereses académicos, me interesa principalmente la parte administrativa de la Ingeniería Industrial, la auditoría, la gestión de procesos y el ciclo PHVA. Me gusta conocer cómo funcionan los procesos y buscar formas de mejorarlos.
 
