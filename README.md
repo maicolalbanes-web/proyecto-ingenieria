@@ -140,7 +140,7 @@ Project Nexus es un software de consola optimizado en Python diseñado para reem
 
 ## 6. Especificación de requisitos 
 
-###  Los requisitos no funcional: Nos indican qué debe  hacer el sistema
+###  Los requisitos funcionales: Nos indican qué debe  hacer el sistema
 
 * Permitir registrar una nueva PQRS 
 * Asignar automáticamente un número de radicado y único a cada PQRS
