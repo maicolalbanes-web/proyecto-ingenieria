@@ -231,212 +231,28 @@ reportes.py retorna estadísticas calculadas correctamente sin promediar los ID.
 ## 7. Plan del proyecto — Project Nexus
 <img width="1237" height="368" alt="image" src="https://github.com/user-attachments/assets/81418c5d-492d-47e9-aefd-219eb0f43c32" />
 
-
-
-
-
-
-
-
-
-
 *	Duración: 13 semanas.
 *	Equipo: 5 estudiantes.
 *	Horas totales del proyecto: 50 horas.
 *	Horas por estudiante: 10 horas.
-*	Las 50 horas se distribuyen a lo largo de las 13 semanas, no significa 10 horas cada semana.
+*	Las 50 horas se distribuyen a lo largo de las 13 semanas
 *	El valor de la práctica se toma como 1 SMLV. Para 2026, el SMLMV es $1.750.905 COP. 
 *	Para calcular el valor hora, se toma como referencia académica 240 horas mensuales, por lo que:
 $1.750.905 ÷ 240 = $7.295,44 por hora.
 *	Valor total de 50 horas: 50 × $7.295,44 = $364.772 COP. Tiempo de práctica, no un pago en dinero.
 
+## 8.Plan de Versionado 
 
-| Actividad                       | Descripción                                                                         |
-| ------------------------------- | ----------------------------------------------------------------------------------- |
-| **Definición del proyecto**     | Definir alcance, objetivos y necesidades del servicio veterinario.                  |
-| **Levantamiento de requisitos** | Analizar requisitos funcionales y no funcionales.                                   |
-| **Diseño del sistema**          | Diseñar menú, módulos, flujo de información y estructura de archivos.               |
-| **Módulo de registro**          | Programar el registro de nuevas PQRS y generación automática del radicado.          |
-| **Validación de datos**         | Implementar las reglas de validación para solicitante, mascota y PQRS.              |
-| **Gestión de PQRS**             | Implementar consulta, actualización y manejo de estados.                            |
-| **Fechas y vencimientos**       | Automatizar fechas máximas de respuesta e identificación de PQRS próximas a vencer. |
-| **Estadísticas**                | Implementar estadísticas por tipo de solicitud y especie.                           |
-| **Persistencia**                | Implementar almacenamiento y exportación mediante archivos planos.                  |
-| **Pruebas del sistema**         | Verificar funcionamiento, validaciones y persistencia de información.               |
-| **Documentación**               | Elaborar manual y documentación técnica del proyecto.                               |
-| **Entrega**                     | Entrega.                                                                            |
+Permitirá controlar los avances del sistema durante las 13 semanas de desarrollo, se generará una nueva versión cada vez que se complete una etapa relevante del proyecto, el conteo de días inicia en el día 1 del proyecto y finaliza en el día 91, correspondiente a la entrega final.
+
+<img width="1203" height="368" alt="image" src="https://github.com/user-attachments/assets/1f2ab217-2f92-46ee-9da6-d22d8cc8c9c9" />
+
+Las 13 semanas completas, y la última versión pasa de v0.x a v1.0 representa la primera versión oficialmente terminada y entregable.
+                                                                        |
 
 
-## Cronograma y Diagrama de Gantt 
 
-* Datos importantes:
-
-* Duración total: 5 semanas
-
-* Equipo: 5 estudiantes
-
-* Dedicación total: 50 horas
-
-* Dedicación estimada: 10 horas por semana del equipo
-
-# Actividad y Horas
-
-| Actividad | Horas |
-|---|---:|
-| Definición y planificación | 3 |
-| Análisis de requisitos | 5 |
-| Diseño del sistema | 5 |
-| Desarrollo del registro y radicación | 7 |
-| Desarrollo de consulta y actualización | 7 |
-| Estados y cálculo de fechas | 5 |
-| Módulo de estadísticas | 4 |
-| Persistencia y exportación | 4 |
-| Pruebas y correcciones | 5 |
-| Documentación y entrega | 5 |
-| **Total** | **50** |
-
-<table>
-  <tr>
-    <th>Actividad</th>
-    <th>Horas</th>
-    <th>Semana 1</th>
-    <th>Semana 2</th>
-    <th>Semana 3</th>
-    <th>Semana 4</th>
-    <th>Semana 5</th>
-    <th>Semana 6</th>
-  </tr>
-
-  <tr>
-    <td>Definición y planificación</td>
-    <td>3</td>
-    <td bgcolor="#b7e3f2">3h</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Análisis de requisitos</td>
-    <td>5</td>
-    <td bgcolor="#b7e3f2">5h</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Diseño del sistema</td>
-    <td>5</td>
-    <td></td>
-    <td bgcolor="#b7e3f2">5h</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Desarrollo del registro y radicación</td>
-    <td>7</td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">7h</td>
-    <td></td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Desarrollo de consulta y actualización</td>
-    <td>7</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">7h</td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Estados y cálculo de fechas</td>
-    <td>5</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">5h</td>
-    <td></td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Módulo de estadísticas</td>
-    <td>4</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">4h</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Persistencia y exportación</td>
-    <td>4</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">4h</td>
-    <td></td>
-  </tr>
-
-  <tr>
-    <td>Pruebas y correcciones</td>
-    <td>5</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">5h</td>
-  </tr>
-
-  <tr>
-    <td>Documentación y entrega</td>
-    <td>5</td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td bgcolor="#b7e3f2">5h</td>
-  </tr>
-
-  <tr>
-    <td><b>Total</b></td>
-    <td><b>50h</b></td>
-    <td colspan="6"></td>
-  </tr>
-</table>
-
-# Presupuesto
-
-El presupuesto se llevará a cabo teniendo en cuenta que somos 5 estudiantes y se tiene como referencia un (1) SMLMV vigente para el año correspondiente al proyecto.
-
-## Datos importantes
-
-- 5 estudiantes × 10 horas = 50 horas de trabajo
-- Valor hora = SMLV ÷ número de horas laborales
-- Valor del proyecto = 50 horas × valor de una hora de trabajo
-- Aporte por estudiante = 10 horas × valor de una hora de trabajo
-
- Al finalizar las 50 horas de práctica, el grupo deberá entregar un sistema de consola desarrollado en Python que permita registrar, consultar, actualizar, controlar y generar estadísticas de las PQRS, utilizando archivos planos .txt como mecanismo de persistencia, junto con la documentación y las pruebas correspondientes.
-
+  
 
 
 
