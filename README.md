@@ -228,7 +228,8 @@ reportes.py retorna estadísticas calculadas correctamente sin promediar los ID.
 
 * **Mantenibilidad:** El código debe estar organizado y documentado para facilitar futuras modificaciones
 
-### 7. Plan del proyecto — Project Nexus
+## 7. Plan del proyecto — Project Nexus
+
 <img width="1237" height="368" alt="image" src="https://github.com/user-attachments/assets/81418c5d-492d-47e9-aefd-219eb0f43c32" />
 
 *	Duración: 13 semanas.
@@ -241,7 +242,7 @@ reportes.py retorna estadísticas calculadas correctamente sin promediar los ID.
 $1.750.905 ÷ 240 = $7.295,44 por hora.
 *	Valor total de 50 horas: 50 × $7.295,44 = $364.772 COP. Tiempo de práctica, no un pago en dinero.
 
-### 8.Plan de Versionado 
+## 8.Plan de Versionado 
 
 Permitirá controlar los avances del sistema durante las 13 semanas de desarrollo, se generará una nueva versión cada vez que se complete una etapa relevante del proyecto, el conteo de días inicia en el día 1 del proyecto y finaliza en el día 91, correspondiente a la entrega final.
 
