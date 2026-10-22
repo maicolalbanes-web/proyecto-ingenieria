@@ -22,19 +22,22 @@ El logotipo representa la convergencia entre la lógica matemática, la estructu
 
 ## 2. Desglose de Elementos Simbólicos
 
-•	La Esfera de Red (Estructuras de Datos y Grafos): La forma circular compuesta por vértices (puntos) y aristas (líneas) evoca la estructura de un grafo tridimensional o una red compleja. Representa la interconexión de datos, el flujo de procesamiento e iteración, y la abstracción espacial propia de los algoritmos avanzados.
-•	La "X" Central de Conexión: En el núcleo de la red se forma una X estilizada mediante intersecciones continuas. Simboliza el cruce de datos, el punto de convergencia ("Nexus") donde los insumos (inputs) son procesados para transformarse en resultados (outputs).
-•	Símbolos Sintácticos de Programación: Ubicados estratégicamente dentro de los nodos de la esfera, se encuentran los pilares del código:
+-	La Esfera de Red (Estructuras de Datos y Grafos): La forma circular compuesta por vértices (puntos) y aristas (líneas) evoca la estructura de un grafo tridimensional o una red compleja. Representa la interconexión de datos, el flujo de procesamiento e iteración, y la abstracción espacial propia de los algoritmos avanzados.
+  
+-	La "X" Central de Conexión: En el núcleo de la red se forma una X estilizada mediante intersecciones continuas. Simboliza el cruce de datos, el punto de convergencia ("Nexus") donde los insumos (inputs) son procesados para transformarse en resultados (outputs).
+  
+-	Símbolos Sintácticos de Programación: Ubicados estratégicamente dentro de los nodos de la esfera, se encuentran los pilares del código:
 o	Etiquetas </>: Representan la implementación del código, la lógica de programación y el desarrollo del software.
 o	Corchetes [ ]: Simbolizan el manejo de estructuras de datos como arreglos, matrices e indexación.
 o	Símbolo de Comentario / Flujo (:/) y Elipsis ...: Representan la documentación, el control de flujo, la abstracción y la modularidad del código.
-•	Isotipo Inferior [PN]: La sigla de Project Nexus delimitada por corchetes refuerza el carácter ingenieril e informático, simulando la declaración de una variable o un vector dentro de un bloque de código.
+
+-	Isotipo Inferior [PN]: La sigla de Project Nexus delimitada por corchetes refuerza el carácter ingenieril e informático, simulando la declaración de una variable o un vector dentro de un bloque de código.
 
 ## 3. Significado de la Paleta de Color
 
-•	Azul Turquesa / Cian Neon: Representa innovación tecnológica, precisión algorítmica, claridad lógica y dinamismo digital.
-•	Blanco Puro: Aporta contraste, legibilidad y simboliza la estructura, el rigor analítico y la transparencia en el flujo de los datos.
-•	Fondo Oscuro: Transmite la estética moderna de las interfaces de desarrollo (dark mode), destacando el enfoque profesional y técnico del proyecto.
+- Azul Turquesa / Cian Neon: Representa innovación tecnológica, precisión algorítmica, claridad lógica y dinamismo digital.
+- Blanco Puro: Aporta contraste, legibilidad y simboliza la estructura, el rigor analítico y la transparencia en el flujo de los datos.
+- Fondo Oscuro: Transmite la estética moderna de las interfaces de desarrollo (dark mode), destacando el enfoque profesional y técnico del proyecto.
 
 ## 4. Declaración de Misión (Lema)
 
