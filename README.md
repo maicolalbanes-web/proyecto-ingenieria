@@ -229,6 +229,27 @@ reportes.py retorna estadísticas calculadas correctamente sin promediar los ID.
 * **Mantenibilidad:** El código debe estar organizado y documentado para facilitar futuras modificaciones
 
 ## 7. Plan del proyecto — Project Nexus
+<img width="1237" height="368" alt="image" src="https://github.com/user-attachments/assets/81418c5d-492d-47e9-aefd-219eb0f43c32" />
+
+
+
+
+
+
+
+
+
+
+*	Duración: 13 semanas.
+*	Equipo: 5 estudiantes.
+*	Horas totales del proyecto: 50 horas.
+*	Horas por estudiante: 10 horas.
+*	Las 50 horas se distribuyen a lo largo de las 13 semanas, no significa 10 horas cada semana.
+*	El valor de la práctica se toma como 1 SMLV. Para 2026, el SMLMV es $1.750.905 COP. 
+*	Para calcular el valor hora, se toma como referencia académica 240 horas mensuales, por lo que:
+$1.750.905 ÷ 240 = $7.295,44 por hora.
+*	Valor total de 50 horas: 50 × $7.295,44 = $364.772 COP. Tiempo de práctica, no un pago en dinero.
+
 
 | Actividad                       | Descripción                                                                         |
 | ------------------------------- | ----------------------------------------------------------------------------------- |
