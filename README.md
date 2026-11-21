@@ -48,7 +48,7 @@ La frase "Algorithmic Innovation" declara el objetivo central del proyecto: no s
 
 # Juan Camilo Grajales campuzano 
 
-Programa académico: Ingeniería Industrial
+Programa académico:Ingeniería Industrial
 
 Semestre: Tercer semestre, con algunas materias correspondientes al cuarto semestre.
 
