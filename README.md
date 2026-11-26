@@ -251,6 +251,128 @@ Permitirá controlar los avances del sistema durante las 13 semanas de desarroll
 Las 13 semanas completas, y la última versión pasa de v0.x a v1.0 representa la primera versión oficialmente terminada y entregable.
                                                                         |
 
+# Manual de Usuario – PawFavor (Gestor de PQRS Project Nexus)
+
+**PawFavor** Es una aplicación de consola desarrollada en Python para gestionar las Peticiones, Quejas, Reclamos y Sugerencias (PQRS) relacionadas con la atención veterinaria de perros y gatos en los diferentes campus de la Universidad de Antioquia.
+
+---
+
+## 1. Requisitos del Sistema y Ejecución
+
+* **Requisitos:** Python  instalado en el equipo (no requiere librerias externas, utiliza modulos nativos como `os`, `re`, `datetime` y `collections`).
+* **Estructura de carpetas recomendada:**
+  ```text
+  /
+  ├── src/     # Codigo fuente del programa (.py)
+  ├── docs/    # Manual de usuario y documentación
+  ├── images/  # Logo y recursos graficos
+  └── data/    # Archivos planos generados automaticamente
+  ```
+* **Cómo iniciar el programa:**
+  1. Abre una terminal o consola en la raiz del proyecto.
+  2. Ejecuta el archivo principal ubicado en `src/`:
+     ```bash
+     python src/main.py
+     ```
+  3. Al iniciar, el sistema creara automaticamente la carpeta `data/` junto con los cuatro archivos planos independientes (`Peticion.txt`, `Queja.txt`, `Reclamo.txt` y `Sugerencia.txt`) si aún no existen.
+
+---
+
+## 2. Navegación por el Menu Principal
+
+Al ejecutar el software, verás el siguiente menu interactivo en pantalla:
+
+```text
+=============================================
+   Bienvenido a Pawfavor Gestor de PQRS
+=============================================
+   1. Registrar PQRS
+   2. Consultar PQRS
+   3. Registrar Cambio en PQRS
+   4. Estadísticas
+   5. Salir
+=============================================
+Seleccione una opción (1-5):
+```
+
+* Digita un numero del **1 al 5** y presiona `Enter`.
+* Si ingresas una letra o un numero fuera de rango, el sistema mostrara un mensaje de error y volvera a pedirte la opcion.
+
+---
+
+## 3. Guía Paso a Paso de las Funcionalidades
+
+### Opción 1: Registrar PQRS
+Permite ingresar una nueva solicitud al sistema. Para garantizar la calidad de la informacion, el programa validara cada campo antes de dejar avanzar al siguiente:
+
+| Campo solicitado | Reglas de validacion y formato esperado |
+| :--- | :--- |
+| **Nombre completo** | Obligatorio. Entre 3 y 100 caracteres. Solo letras, espacios, tildes, apostrofes (`'`) o guiones (`-`). No admite numeros. |
+| **Tipo de documento** | Seleccionar de la lista numerada: `1. CC`, `2. TI`, `3. CE`, `4. PP`, `5. NIT`. |
+| **Número de documento** | Obligatorio. Solo dígitos numéricos (entre 3 y 15 números). |
+| **Tipo de telefono** | Seleccionar de la lista: `1. Celular`, `2. Fijo`, `3. Corporativo`, `4. Otro`. |
+| **Teléfono de contacto** | Obligatorio. Debe tener exactamente **10 dígitos** numéricos. |
+| **Correo electrónico** | Obligatorio. Máximo 254 caracteres. Debe contener un unico `@` y un dominio vslido (ej. `usuario@correo.com`). |
+| **Direccion** | **Opcional** (presiona `Enter` para omitir; se guardará como `N/A`). Si se escribe, debe tener entre 5 y 200 caracteres validos (`#`, `-`, `.`, `/`). |
+| **Tipo de solicitud** | Seleccionar de la lista: `1. Peticion`, `2. Queja`, `3. Reclamo`, `4. Sugerencia`. |
+| **Fecha de radicacion** | Obligatorio. Formato estricto **`AAAA-MM-DD`** (ej. `2026-10-15`). No puede ser una fecha futura. |
+| **Canal de recepcion** | Seleccionar: `Presencial`, `Correo electronico`, `Pagina web`, `Telefono`, `Redes sociales` u `Otro`. |
+| **Asunto o titulo** | Obligatorio. Entre 5 y 150 caracteres. |
+| **Descripcion detallada** | Obligatorio. Minimo 20 caracteres y maximo 2000. |
+| **Tipo de mascota** | Seleccionar: `1. Perro` o `2. Gato`. |
+| **Campus relacionado** | Seleccionar uno de los 9 campus habilitados de la UdeA en Medellin. |
+
+**Resultado del registro:**
+* El sistema asigna automaticamente un **ID consecutivo** independiente por cada tipo de solicitud, calcula la **fecha maxima de respuesta (+30 dias calendario)** y establece el estado inicial en **`Registrada`**.
+* Se mostrara en consola el **Comprobante Oficial de Radicación** (en formato ASCII de 120 caracteres de ancho) y se exportara una copia fisica en `data/Radicado_<Tipo>_<ID>.txt`.
+
+---
+
+### Opción 2: Consultar PQRS
+Permite visualizar las solicitudes almacenadas mediante dos modalidades:
+
+1. **Listar resumen general de todas las PQRS:** Muestra en consola una lista rapida con el tipo de solicitud, el número de radicado formateado a 5 digitos (`#00001`), el estado actual, el nombre del solicitante y la fecha de vencimiento.
+2. **Visualizar ficha/radicado ASCII de una PQRS específica:** Te pedirá seleccionar el **Tipo de solicitud** y digitar el **ID numerico**. Si existe, imprimirá en pantalla su comprobante oficial y actualizará el archivo `.txt` del radicado.
+
+---
+
+### Opción 3: Registrar Cambio en PQRS
+Permite actualizar el avance de una solicitud respetando estrictamente el flujo obligatorio del sistema:
+
+$$\text{Registrada} \longrightarrow \text{En proceso} \longrightarrow \text{Solucionada}$$
+
+**Pasos:**
+1. Selecciona el **Tipo de solicitud** (`Peticion`, `Queja`, `Reclamo` o `Sugerencia`).
+2. Ingresa el **ID numerico** del radicado.
+3. El sistema mostrara el estado actual y te pedira elegir el nuevo estado:
+   * Si esta en `Registrada`, solo permite pasar a `En proceso`.
+   * Si esta en `En proceso`, solo permite pasar a `Solucionada` (al hacerlo, el sistema guarda automáticamente la fecha actual como `fecha_solucion`).
+   * Una vez en estado `Solucionada`, el registro queda cerrado y no admite mas modificaciones.
+
+---
+
+### Opción 4: Estadísticas
+Genera en consola un reporte analitico con los 6 indicadores clave de gestión a partir de todos los registros guardados:
+
+1. **Promedio de dias de respuesta (Obligatoria):** Calcula el promedio entero de dias transcurridos entre la radicacion y la solucion de las PQRS cerradas.
+2. **Cantidad por tipo de solicitud:** Conteo total discriminado por Peticiones, Quejas, Reclamos y Sugerencias.
+3. **Distribucion por tipo de mascota:** Total de solicitudes registradas para Perros frente a Gatos.
+4. **Alertas de vencimiento (≤ 5 dias):** Lista las PQRS activas (no solucionadas) a las que les quedan 5 dias o menos para vencer, o que ya estan vencidas.
+5. **PQRS activa mas antigua:** Identifica la solicitud sin resolver con la fecha de radicacion mas vieja.
+6. **Top Campus con mayor numero de solicitudes:** Ranking ordenado de mayor a menor segun la sede universitaria relacionada.
+
+---
+
+### Opción 5: Salir
+Cierra la ejecución del programa de forma segura. Toda la información registrada permanece almacenada en los archivos planos dentro de la carpeta `data/`.
+
+---
+
+## 4. Solución de Problemas Frecuentes
+
+* **"Error: Fecha invalida o futura":** Asegurate de escribir los guiones y respetar el orden Año-Mes-Dia (por ejemplo, `2026-09-25`, y no `25/09/2026`).
+* **"No se encontro un radicado con esos datos":** Recuerda que cada tipo de solicitud tiene su propia numeración independiente (puede existir tanto una *Petición #1* como una *Queja #1*). Verifica que hayas seleccionado el tipo correcto antes de digitar el ID.
+
 
 
   
