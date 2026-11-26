@@ -269,13 +269,14 @@ Las 13 semanas completas, y la última versión pasa de v0.x a v1.0 representa l
   └── data/    # Archivos planos generados automaticamente
   ```
 * **Cómo iniciar el programa:**
-   1.Abre una terminal o consola en la raiz del proyecto.
+   
+   1. Abre una terminal o consola en la raiz del proyecto.
   
-   2.Ejecuta el archivo principal ubicado en `src/`:
+   2. Ejecuta el archivo principal ubicado en `src/`:
      ```bash
     python src/main.py
      ```
-  3.Al iniciar, el sistema creara automaticamente la carpeta `data/` junto con los cuatro archivos planos independientes (`Peticion.txt`, `Queja.txt`, `Reclamo.txt` y `Sugerencia.txt`) si aun no existen.
+  3. Al iniciar, el sistema creara automaticamente la carpeta `data/` junto con los cuatro archivos planos independientes (`Peticion.txt`, `Queja.txt`, `Reclamo.txt` y `Sugerencia.txt`) si aun no existen.
 
 ---
 
