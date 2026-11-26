@@ -270,6 +270,7 @@ Las 13 semanas completas, y la última versión pasa de v0.x a v1.0 representa l
   ```
 * **Cómo iniciar el programa:**
    1.Abre una terminal o consola en la raiz del proyecto.
+  
    2.Ejecuta el archivo principal ubicado en `src/`:
      ```bash
     python src/main.py
