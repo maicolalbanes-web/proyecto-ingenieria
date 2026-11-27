@@ -1,1 +1,111 @@
+import re
+from datetime import datetime
 
+# Listas con las opciones permitidas en el sistema
+TIPOS_DOCUMENTO = ["CC", "TI", "CE", "PP", "NIT"]
+TIPOS_TELEFONO = ["Celular", "Fijo", "Corporativo", "Otro"]
+TIPOS_SOLICITUD = ["Peticion", "Queja", "Reclamo", "Sugerencia"]
+CANALES_RECEPCION = ["Presencial", "Correo electronico", "Pagina web", "Telefono", "Redes sociales", "Otro"]
+TIPOS_MASCOTA = ["Perro", "Gato"]
+CAMPUS_PERMITIDOS = [
+    "Campus Medellin - Ciudad Universitaria",
+    "Campus Medellin - Ciudadela Robledo",
+    "Campus en el Area de la salud",
+    "Campus Medellin - Sede de Posgrado",
+    "Campus Medellin - Edificio San Ignacio",
+    "Campus Medellin - Antigua Escuela de Derecho",
+    "Campus Medellin - Edificio Antioquia",
+    "Campus Medellin - Casas Patrimoniales",
+    "Campus Medellin - Edificio de Extension"
+]
+ESTADOS_FLUJO = ["Registrada", "En proceso", "Solucionada"]
+
+# --- NUEVAS VALIDACIONES PARA EL ACCESO ADMINISTRATIVO ---
+
+def validar_usuario(usuario: str) -> bool:
+    """
+    Verifica que el usuario tenga entre 4 y 20 caracteres,
+    sin espacios ni el simbolo '|' (usado para separar datos en el archivo).
+    """
+    usuario = usuario.strip()
+    if len(usuario) < 4 or len(usuario) > 20:
+        return False
+    if " " in usuario or "|" in usuario:
+        return False
+    return True
+
+def validar_contrasena(contraseña: str) -> bool:
+    """
+    Verifica que la contraseña tenga entre 4 y 20 caracteres,
+    sin espacios ni el simbolo '|'.
+    """
+    if len(contraseña) < 4 or len(contraseña) > 20:
+        return False
+    if " " in contraseña or "|" in contraseña:
+        return False
+    return True
+
+# --- VALIDACIONES ORIGINALES DE PQRS ---
+
+def validar_nombre(nombre: str) -> bool:
+    """Revisa que el nombre tenga entre 3 y 100 letras."""
+    nombre = nombre.strip()
+    if not (3 <= len(nombre) <= 100):
+        return False
+    patron = r"^[A-Za-zÁÉÍÓÚáéíóúÑñ\s'-]+$"
+    return bool(re.match(patron, nombre))
+
+def validar_numero_documento(doc: str) -> bool:
+    """Comprueba que solo tenga numeros y entre 3 y 15 digitos."""
+    return doc.isdigit() and (3 <= len(doc) <= 15)
+
+def validar_telefono(tel: str) -> bool:
+    """Verifica que el telefono sea numerico y tenga 10 digitos."""
+    return tel.isdigit() and len(tel) == 10
+
+def validar_correo(correo: str) -> bool:
+    """Verifica que el correo tenga un '@' y un punto '.'."""
+    if len(correo) > 254 or correo.count("@") != 1:
+        return False
+    patron = r"^[\w\.-]+@[\w\.-]+\.\w+$"
+    return bool(re.match(patron, correo))
+
+def validar_direccion(direccion: str) -> bool:
+    """Valida que la direccion este vacia (opcional) o tenga entre 5 y 200 caracteres."""
+    if direccion.strip() == "":
+        return True
+    if not (5 <= len(direccion.strip()) <= 200):
+        return False
+    patron = r"^[A-Za-z0-9ÁÉÍÓÚáéíóúÑñ\s#\-\./]+$"
+    return bool(re.match(patron, direccion.strip()))
+
+def validar_fecha(fecha_str: str):
+    """Valida el formato AAAA-MM-DD y que la fecha no sea futura."""
+    try:
+        fecha = datetime.strptime(fecha_str, "%Y-%m-%d")
+        if fecha.date() > datetime.now().date():
+            return None
+        return fecha
+    except ValueError:
+        return None
+
+def validar_asunto(asunto: str) -> bool:
+    """Valida que el asunto tenga entre 5 y 150 caracteres permitidos."""
+    asunto = asunto.strip()
+    if not (5 <= len(asunto) <= 150):
+        return False
+    patron = r"^[A-Za-z0-9ÁÉÍÓÚáéíóúÑñ\s\.,;:¡!¿?\-\(\)]+$"
+    return bool(re.match(patron, asunto))
+
+def validar_descripcion(desc: str) -> bool:
+    """Valida que la descripcion tenga entre 20 y 2000 caracteres."""
+    desc_limpia = desc.strip()
+    return 20 <= len(desc_limpia) <= 2000
+
+def validar_cambio_estado(estado_actual: str, nuevo_estado: str) -> bool:
+    """Verifica que el estado avance en orden: Registrada -> En proceso -> Solucionada."""
+    if estado_actual == "Registrada" and nuevo_estado == "En proceso":
+        return True
+    if estado_actual == "En proceso" and nuevo_estado == "Solucionada":
+        return True
+    return False
